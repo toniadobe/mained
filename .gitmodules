@@ -1,0 +1,8 @@
+[submodule "repoed-a"]
+	path = repoed-a
+	url = https://github.com/toniadobe/repoed1.git
+	branch = main
+[submodule "repoed-b"]
+	path = repoed-b
+	url = https://github.com/toniadobe/repoed2.git
+	branch = main
